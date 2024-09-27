@@ -26,5 +26,8 @@ class TestPyramid(unittest.TestCase):
             pyramid.calculate_blocks(height)
         self.assertEqual(str(context.exception), "Height must be at least 1.")
 
+
+        
+
 if __name__ == '__main__':
     unittest.main()
