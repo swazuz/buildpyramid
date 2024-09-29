@@ -1,5 +1,5 @@
 import unittest
-from pyramid import Pyramid
+from models.pyramid import Pyramid
 
 
 class TestPyramid(unittest.TestCase):
