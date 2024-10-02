@@ -1,4 +1,5 @@
-# Project Title
+# Building Pyramids with Python
+A demonstration of test driven development (TDD) in Python by building pyramids.
 
 ## Introduction
 
